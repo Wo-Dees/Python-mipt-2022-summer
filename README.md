@@ -1,0 +1,2 @@
+LabWork - лаба
+Project - проект
